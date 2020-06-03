@@ -1,6 +1,6 @@
 # Índice
 - [Sobre](#sobre)
-- [Desafio 2 (Enunciado)](#desafio-2-(enunciado))
+- [Desafio 2 (Enunciado)](#desafio-2-enunciado)
 - [Resolução do desafio](#resolução-do-desafio)  
 
 
