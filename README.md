@@ -1,4 +1,15 @@
-# Desafio 2
+# Índice
+- [Sobre](#sobre)
+- [Desafio 2 (Enunciado)](#desafio-2-(enunciado))
+- [Resolução do desafio](#resolução-do-desafio)  
+
+
+# Sobre 
+
+Repositório contendo o desafio 02 elaborado na **Maratona Full Cycle 2.0** promovido pela **[Full Cycle](http://fullcycle.com.br)** (School of Net e Code Education). Os desafios consistiam em elaborar as aplicações, criar as imagens com o docker e publica-las  no dockerhub.
+- O desafio 2 consistia em elaborar uma API REST com NestJS usando TypeORM, Migrations e SQLite, para cadastro e listagem das informações.
+
+# Desafio 2 (Enunciado)
 
 ## API no Nest.js com TypeORM
 
@@ -55,11 +66,15 @@ TYPEORM_MIGRATIONS_DIR=src/migrations
 ```
 npm run typeorm migration:create -- -n maratona
 ```
-## Imagem docker do desafio
+---
+
+# Resolução do desafio
+
+## Imagem docker
 
 `https://hub.docker.com/r/pauloabq/desafio02`
 
-### Instruções
+## Instruções
 
 Baixar a imagem docker e rodar:
 ```
